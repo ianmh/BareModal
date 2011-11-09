@@ -3,11 +3,11 @@
 	$.fn.modal = function( opts ) {
 
 	var defaults = {
-		modal					: 'modal', // Modal class name
-		title 				: '', // Modal title
-		data 					: '', // Motal data
-		extraClass		: '', // Optional class (multiple width params)
-		ajax					: true
+		modal		: 'modal', // Modal class name
+		title		: '', // Modal title
+		data		: '', // Motal data
+		extraClass	: '', // Optional class (multiple width params)
+		ajax		: true
 	};
 
 	
